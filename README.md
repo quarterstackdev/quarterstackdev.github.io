@@ -4,6 +4,6 @@ Quarter Stack Dev LLC is a company formed by me, Haisum Mussawir, after I moved 
 
 I have a lot of experience in several programming languages and DevOps tools. I also have a small team here in Pakistan that can do mobile app development. Since I am in Pakistan, I can deliver great work at much more affordable rates than North American companies.
 
-If you have a project you would like to discuss with me, you can reach out at haisum@quarterstackdev.com.
+If you have a project you would like to discuss with me, you can reach out at <a href="mailto:haisum@quarterstackdev.com">haisum@quarterstackdev.com</a>.
 
 Have a Great Rest of Your Day :)
